@@ -5,7 +5,7 @@
     "description": "Behavior pack for AI helper bot",
     "uuid": "b4d8e4f7-a2f4-480c-99ea-91c2d88f0a44",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 60]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
@@ -23,7 +23,7 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.7.0-beta"
+      "version": "2.3.0"
     },
     {
       "module_name": "@minecraft/server-net",
